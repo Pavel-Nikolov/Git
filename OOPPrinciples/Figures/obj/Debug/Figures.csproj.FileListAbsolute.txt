@@ -1,0 +1,7 @@
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\bin\Debug\Figures.exe.config
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\bin\Debug\Figures.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\bin\Debug\Figures.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\obj\Debug\Figures.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\Figures\obj\Debug\Figures.pdb

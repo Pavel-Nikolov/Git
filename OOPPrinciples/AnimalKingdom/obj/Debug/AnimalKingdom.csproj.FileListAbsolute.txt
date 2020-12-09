@@ -1,0 +1,7 @@
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\bin\Debug\AnimalKingdom.exe.config
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\bin\Debug\AnimalKingdom.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\bin\Debug\AnimalKingdom.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\obj\Debug\AnimalKingdom.csprojAssemblyReference.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\obj\Debug\AnimalKingdom.csproj.CoreCompileInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\obj\Debug\AnimalKingdom.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\04-Наследяване-абстракция-интерфейси-20200207\OOPPrinciples\AnimalKingdom\obj\Debug\AnimalKingdom.pdb

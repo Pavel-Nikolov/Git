@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom", "AnimalKingdom\AnimalKingdom.csproj", "{486EC9C6-9251-476C-8C9C-F0EC083D4041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{400C808B-0C71-434F-BBAC-E723FB2E3D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486EC9C6-9251-476C-8C9C-F0EC083D4041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486EC9C6-9251-476C-8C9C-F0EC083D4041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486EC9C6-9251-476C-8C9C-F0EC083D4041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486EC9C6-9251-476C-8C9C-F0EC083D4041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400C808B-0C71-434F-BBAC-E723FB2E3D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400C808B-0C71-434F-BBAC-E723FB2E3D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400C808B-0C71-434F-BBAC-E723FB2E3D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400C808B-0C71-434F-BBAC-E723FB2E3D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D504DF0-B503-4C51-8B8C-2CC9C0072820}
+	EndGlobalSection
+EndGlobal
